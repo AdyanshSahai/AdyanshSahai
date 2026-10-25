@@ -4,8 +4,9 @@ I'm a student who builds things: robots, embedded systems, tools for my own work
 
 ### Highlights
 
-- **Create Award** at the VEX Robotics World Championship
-- **Think Award** at VEX Nationals
+- **Create Award** at the VEX V5RC Robotics World Championship (25-26)
+- **Think Award** at VEX V5RC UK Nationals (25-26)
+- **Amaze Award** at VEX VIQRC UK Nationals (24-25)
 - **TeenTech finalist** with [AquaLux](https://github.com/AdyanshSahai/AquaLux)
 - **First place** in a Hindi public-speaking competition run by the Indian High Commission at the Nehru Centre, London, presenting my assistive robot Caela, as the youngest entrant
 
@@ -22,9 +23,6 @@ Also: [sponsor-outreach-pipeline](https://github.com/AdyanshSahai/sponsor-outrea
 An alarm that keeps ringing until you put a water bottle on it and turn the light on, so you can't just tap it off and go back to sleep. A capacitive foil pad uses the chip's built-in touch sensing to detect the bottle, and only a calibrated window of readings counts, so a hand on the pad can't silence it. Both conditions have to hold for two seconds, because humidity makes the capacitive readings flicker. It's set up from a phone over its own WiFi network, and only joins home WiFi briefly for a time sync to save battery. A breadboard prototype that reached the TeenTech finals.
 
 ### Tools
-
-**[ytdl-bridge](https://github.com/AdyanshSahai/ytdl-bridge)** · Python, JavaScript · Linux \
-A one-click yt-dlp frontend: a browser extension hands the page to a Python native messaging host, which runs the download in a terminal. Playlists run in batches because browser cookies went stale after about 13-14 items in testing, titles and tags are cleaned at download time, and synced lyrics are embedded in the background. Every value from the page is shell-quoted, and only the extension can talk to the host.
 
 **[TwilightPixel](https://github.com/AdyanshSahai/TwilightPixel)** · KDE Plasma 6 · Fedora \
 My first Linux desktop setup, built in about 50 hours during my first week after switching from Windows.
