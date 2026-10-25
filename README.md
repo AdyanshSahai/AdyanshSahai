@@ -7,7 +7,7 @@ I'm a student who builds things: robots, embedded systems, tools for my own work
 - **Create Award** at the VEX Robotics World Championship
 - **Think Award** at VEX Nationals
 - **TeenTech finalist** with [AquaLux](https://github.com/AdyanshSahai/AquaLux)
-- **First place** in a Hindi public-speaking competition at the Nehru Centre, London, with a talk on robotics, as the youngest entrant
+- **First place** in a Hindi public-speaking competition run by the Indian High Commission at the Nehru Centre, London, presenting my assistive robot Caela, as the youngest entrant
 
 ### Robotics
 
